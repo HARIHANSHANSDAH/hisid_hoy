@@ -171,7 +171,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 👤 Author
 
-**Your Name**
+**HARI HANS HANSDAH**
 - GitHub: [harihanshansdah](https://github.com/harihanshansdah)
 - LinkedIn: [harihanshansdah](https://linkedin.com/in/harihanshansdah)
 
