@@ -6,7 +6,7 @@ A real-time weather forecasting web application built with **React** and **Vite*
 
 ## 🚀 Demo
 
-/ [Hisid Hoy}(https://harihanshansdah.github.io/hisid_hoy/)
+/ [Hisid Hoy](https://harihanshansdah.github.io/hisid_hoy/)
 
 ---
 
